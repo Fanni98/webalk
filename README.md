@@ -11,4 +11,4 @@ INSERT INTO cities(name, population) VALUES('Szeged', 161879);
 INSERT INTO cities(name, population) VALUES('Győr', 129435);
 INSERT INTO cities(name, population) VALUES('Miskolc', 157639);
 INSERT INTO cities(name, population) VALUES('Eger', 53876);
-INSERT INTO cities(name, population) VALUES('Soporon', 62246);
+INSERT INTO cities(name, population) VALUES('Sopron', 62246);
