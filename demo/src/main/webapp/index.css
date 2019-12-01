@@ -1,0 +1,92 @@
+body {
+	background-color: #2a9d8f;
+	font-family: "Raleway", sans-serif;
+	color: #264653;
+}
+
+h1 {
+	font-size: large;
+	text-align: justify;
+	margin-left: 80px;
+	margin-right: 80px;
+	color: #ffd166;
+}
+
+p {
+	font-size:large;
+	text-align: center;
+}
+
+#sch{
+	font-size:large;
+}
+
+#banner {
+	text-align: center;
+	font-size: 134px;
+	margin: 2px;
+	color: #00FA9A;
+	background-color: #264653;
+	height: auto;
+}
+
+#regist {
+	border: rgba(34, 139, 34, 0.3);
+}
+#menuBar {
+	font-size: 20px;
+	float: right;
+}
+
+#city {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+}
+
+#citysearch {
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #00FA9A;
+	background-color: #264653;
+	text-align: center;
+}
+
+#table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: #00FA9A;
+	font-size: 20px;
+}
+
+#th, #td {
+	border: 3px solid rgb(34, 139, 34);
+	background: #264653;
+}
+
+input[type=text], input[type=number] {
+	width: 25%;
+	padding: 12px 20px;
+	margin: 
+	box-sizing: border-box;
+	border: none;
+	background-color: #3CBC8D;
+	color: white;
+	font-size: large;
+}
+
+input[type=submit] {
+	width: auto;
+	height: auto;
+	background: rgba(34, 139, 34, 0.3);
+	margin: 25px;
+	font-size: larger;
+	border: 3px solid rgb(34, 139, 34);
+	text-align: center;
+	display: inline-block;
+	cursor: pointer;
+	float: right;
+}

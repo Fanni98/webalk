@@ -1,0 +1,6 @@
+com\beadando\demo\DemoApplication.class
+com\beadando\demo\dao\CityService.class
+com\beadando\demo\dao\ICityService.class
+com\beadando\demo\controller\MyController.class
+com\beadando\demo\model\City.class
+com\beadando\demo\dao\CityRepository.class
